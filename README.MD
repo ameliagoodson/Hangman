@@ -23,8 +23,8 @@ the word is guessed.
 
 Clone or download and navigate to the installation
 directory. If running from a terminal, type "python
-main.py". Otherwise, run in your preferred shell or IDE by
-clicking the run button.
+main.py". Otherwise, run in your preferred IDE by clicking
+the run button.
 
 # Dependencies
 

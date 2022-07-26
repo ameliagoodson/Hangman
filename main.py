@@ -9,7 +9,7 @@ def clear():
     os.system('cls' if os.name=='nt' else 'clear')
 
 # START
-print(f" {logo}\n\nLet's play hangman! You must guess the random word selected in this game.\n")
+print(f" {logo}\n\nLet's play hangman! To win, you must correctly guess the randomly selected word.\n")
 
 # generate random word
 chosen_word_unformatted = r.get_random_word(hasDictionaryDef="true")
